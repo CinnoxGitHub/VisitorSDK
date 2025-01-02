@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.m800.maaiiconnect.mobile</groupId>
   <artifactId>client</artifactId>
-  <version>1.0.34</version>
+  <version>1.0.35</version>
   <packaging>aar</packaging>
   <dependencies>
   <dependency>
@@ -194,7 +194,7 @@
     <dependency>
       <groupId>com.github.yalantis</groupId>
       <artifactId>ucrop</artifactId>
-      <version>2.2.6</version>
+      <version>2.2.8</version>
     </dependency>
     <dependency>
       <groupId>com.google.android.exoplayer</groupId>
